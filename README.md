@@ -39,3 +39,11 @@ The execution environment requires Python 3.8 or newer and the following librari
 * `scipy`
 * `matplotlib`
 * `jupyter`
+
+### Automated Setup
+
+You can install all of these dependencies automatically using the provided setup script. Before running the script from your terminal, you will need to grant it execution permissions:
+
+```bash
+chmod +x setup.sh
+./setup.sh
