@@ -6,7 +6,7 @@ The demonstration compares Convolutional Neural Networks (CNNs) built with PyTor
 
 ## Notebook Contents
 
-The `CEDAR_TEC_DEMO_NEW.ipynb` notebook is structured chronologically to guide you through a standard machine learning workflow in the geosciences:
+The `CEDAR_TEC_DEMO_X.ipynb` notebook is structured chronologically to guide you through a standard machine learning workflow in the geosciences:
 
 * **Automated Data Retrieval:** Pulls the necessary Madrigal TEC and JAWARA reanalysis NetCDF files directly from Zenodo (Record ID: 20769370).
 * **Data Alignment and Preprocessing:** Applies temporal lags to simulate forcing, standardizes inputs, and compresses the heavy JAWARA 3D fields using Principal Component Analysis (EOF analysis).
